@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ███████╗██╗   ██╗ ██████╗██╗  ██╗██╗███╗   ██╗███╗   ███╗ █████╗ ██╗   ██╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██║  ██║██║████╗  ██║████╗ ████║██╔══██╗╚██╗ ██╔╝
-██║  ██║█████╗  ██║   ██║██║     ███████║██║██╔██╗ ██║██╔████╔██║███████║ ╚████╔╝ 
-██║  ██║██╔══╝  ╚██╗ ██╔╝██║     ██╔══██║██║██║╚██╗██║██║╚██╔╝██║██╔══██║  ╚██╔╝  
-██████╔╝███████╗ ╚████╔╝ ╚██████╗██║  ██║██║██║ ╚████║██║ ╚═╝ ██║██║  ██║   ██║   
-╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝  
+██████╗  ███████╗ ██╗   ██╗  ██████╗ ██╗  ██╗ ██╗ ███╗   ██╗ ███╗   ███╗  █████╗ ██╗   ██╗
+██╔══██╗ ██╔════╝ ██║   ██║ ██╔════╝ ██║  ██║ ██║ ████╗  ██║ ████╗ ████║ ██╔══██╗╚██╗ ██╔╝
+██║  ██║ █████╗   ██║   ██║ ██║      ███████║ ██║ ██╔██╗ ██║ ██╔████╔██║ ███████║ ╚████╔╝ 
+██║  ██║ ██╔══╝   ╚██╗ ██╔╝ ██║      ██╔══██║ ██║ ██║╚██╗██║ ██║╚██╔╝██║ ██╔══██║  ╚██╔╝  
+██████╔╝ ███████╗  ╚████╔╝  ╚██████╗ ██║  ██║ ██║ ██║ ╚████║ ██║ ╚═╝ ██║ ██║  ██║   ██║   
+╚═════╝  ╚══════╝   ╚═══╝    ╚═════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═══╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝   ╚═╝  
 ```
 
 ### Hey there! I'm **Chinmay Samal** 👋
@@ -136,8 +136,8 @@ goal: Backend / Cloud / DevOps Engineer
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devchinmaysamal17-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devchinmaysamal17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/chinmay-samal-492a72387/))
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmay.d.samal@gmail.com)
 
 </div>
 
