@@ -27,7 +27,7 @@ role: 1st Year Engineering Student
 focus: Backend | Cloud | DevOps | Infrastructure
 location: India 🇮🇳
 education:
-  - B.E. (Regular Engineering Degree)
+  - B.TECH Vishwakarma Institute Of Technology, Pune
   - BS Data Science @ IIT Madras (Foundation Level ✅)
 currently:
   - Learning Docker & Container Orchestration
