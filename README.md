@@ -1,18 +1,10 @@
 <div align="center">
 
-```
-                    ██████╗ ██╗  ██╗ ██╗ ███╗   ██╗ ███╗   ███╗  █████╗ ██╗   ██╗
-                   ██╔════╝ ██║  ██║ ██║ ████╗  ██║ ████╗ ████║ ██╔══██╗╚██╗ ██╔╝
-                   ██║      ███████║ ██║ ██╔██╗ ██║ ██╔████╔██║ ███████║ ╚████╔╝ 
-                   ██║      ██╔══██║ ██║ ██║╚██╗██║ ██║╚██╔╝██║ ██╔══██║  ╚██╔╝  
-                    ╚██████╗ ██║  ██║ ██║ ██║ ╚████║ ██║ ╚═╝ ██║ ██║  ██║   ██║   
-                     ╚═════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═══╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝   ╚═╝  
-```
+# Chinmay Samal
 
-### Hey there! I'm **Chinmay Samal** 👋
 #### Engineering Student • Backend Developer • Open Source Contributor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+%26+Cloud+Engineer+in+making+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+Linux+Enthusiast+%F0%9F%90%B3;IIT+Madras+BS+Data+Science+%F0%9F%8E%93;GSSoC+2026+Contributor+%F0%9F%8C%9F;Building+scalable+systems+one+API+at+a+time+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+%26+Cloud+Engineer+in+making+%F0%9F%9A%80;DevOps+%7C+Docker+%7C+CI%2FCD+Enthusiast+%F0%9F%90%B3;IIT+Madras+BS+Data+Science+%F0%9F%8E%93;GSSoC+2026+Contributor+%F0%9F%8C%9F;Building+scalable+systems+one+API+at+a+time+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,17 +14,18 @@
 
 ```yaml
 name: Chinmay Samal
-username: Devchinmaysamal17
+username: DevChinmaysamal17
 role: 1st Year Engineering Student
 focus: Backend | Cloud | DevOps | Infrastructure
-location: India 🇮🇳
+location: Pune, India 🇮🇳
 education:
-  - B.TECH Vishwakarma Institute Of Technology, Pune
-  - BS Data Science @ IIT Madras (Foundation Level ✅)
+  - B.Tech CSE (AI) — Vishwakarma Institute of Technology, Pune
+  - BS Data Science & Applications — IIT Madras (Diploma track)
 currently:
-  - Learning Docker & Container Orchestration
+  - Building CI/CD pipelines with GitHub Actions
+  - Exploring AWS Cloud Infrastructure
   - Contributing to Open Source via GSSoC 2026
-  - Building scalable backend systems
+  - IITM coursework: PDSA | DBMS | System Commands
 goal: Backend / Cloud / DevOps Engineer
 ```
 
@@ -54,32 +47,48 @@ goal: Backend / Cloud / DevOps Engineer
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GHCR](https://img.shields.io/badge/GHCR-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 FinTrack
-> Personal Finance Tracker — Full-stack backend application
+### 🏦 FinTrack — Personal Finance Dashboard
+> Full-stack personal finance tracker with production-grade DevOps setup
 
-- **Stack:** FastAPI + PostgreSQL + JWT Auth + Docker + Render
-- **Features:** Secure authentication, expense tracking, RESTful API design
-- **Status:** ✅ Deployed on Render
+- **Stack:** FastAPI · PostgreSQL (Supabase) · JWT Auth · Docker · GitHub Actions
+- **DevOps:** CI/CD pipeline — automated tests + Docker image push to GHCR on every commit
+- **Features:** Secure authentication, expense tracking, category management, RESTful API
+- **Live:** [fintrack-p2n3.onrender.com](https://fintrack-p2n3.onrender.com)
+- **Repo:** [DevChinmaysamal17/FinTrack](https://github.com/DevChinmaysamal17/FinTrack---Personal-Finance-Dashboard)
+
+---
+
+### 📊 ExamRank — JEE/NEET Rank Predictor
+> Marks-to-percentile/rank predictor for JEE Main, JEE Advanced, MHT-CET, and NEET
+
+- **Stack:** FastAPI (backend) · React + Vite (frontend) · Render · Vercel
+- **Features:** Multi-exam support, real-time rank prediction, live user traffic
+- **Frontend:** [examrank-phi.vercel.app](https://examrank-phi.vercel.app/)
+- **Backend:** [examrank-backend-poh5.onrender.com](https://examrank-backend-poh5.onrender.com)
+- **Status:** ✅ Live in production with real users
 
 ---
 
 ### ✅ Flask Todo App
 > Clean, containerized task management app
 
-- **Stack:** Flask + SQLite + Docker
+- **Stack:** Flask · SQLite · Docker
 - **Features:** Full CRUD operations, Dockerized deployment
 - **Status:** ✅ Containerized & running
 
@@ -88,9 +97,9 @@ goal: Backend / Cloud / DevOps Engineer
 ### 🌊 IoT Water Quality Monitoring System
 > Smart monitoring system for real-time water quality analysis
 
-- **Stack:** IoT Sensors (pH / Turbidity / Temperature) + Cloud Alerts
+- **Stack:** IoT Sensors (pH / Turbidity / Temperature) · Cloud Alerts
 - **Features:** Multi-parameter sensing, cloud-based alert system
-- **Status:** 🔧 In Development (Synopsis Stage)
+- **Status:** 🔧 In Development
 
 ---
 
@@ -99,7 +108,7 @@ goal: Backend / Cloud / DevOps Engineer
 ### GSSoC 2026 — GirlScript Summer of Code
 [![GSSoC](https://img.shields.io/badge/GSSoC%202026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
 
-> **Role:** Contributor / Mentee — Open Source Track  
+> **Role:** Contributor — Open Source Track  
 > **Duration:** May 15 – August 14, 2026  
 > Actively contributing to open source projects as part of one of India's largest OSS programs.
 
@@ -109,11 +118,11 @@ goal: Backend / Cloud / DevOps Engineer
 
 <div align="center">
 
-![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devchinmaysamal17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevChinmaysamal17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/DevChinmaysamal17)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devchinmaysamal17&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevChinmaysamal17&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DevChinmaysamal17)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devchinmaysamal17&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevChinmaysamal17&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -122,11 +131,11 @@ goal: Backend / Cloud / DevOps Engineer
 ## 🎯 Current Focus
 
 ```
-🐳 Mastering Docker & Container Orchestration
-☁️  Exploring Cloud Infrastructure (AWS/GCP)
-🔧 DevOps practices — CI/CD pipelines
-📚 IIT Madras BS Data Science coursework
-🤝 Open Source via GSSoC 2026
+⚙️  CI/CD pipelines with GitHub Actions
+☁️  AWS Cloud Infrastructure (Cloud Practitioner → Solutions Architect)
+🐳  Docker & Container Orchestration
+📚  IITM BS: PDSA | DBMS | System Commands
+🤝  Open Source contributions via GSSoC 2026
 ```
 
 ---
@@ -135,7 +144,7 @@ goal: Backend / Cloud / DevOps Engineer
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Devchinmaysamal17-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devchinmaysamal17)
+[![GitHub](https://img.shields.io/badge/GitHub-DevChinmaysamal17-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devchinmaysamal17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-samal-492a72387/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmay.d.samal@gmail.com)
 
