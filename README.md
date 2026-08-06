@@ -137,7 +137,7 @@ Multi-parameter sensing (pH / turbidity / temperature) with cloud-based alerts.
 <img src="https://img.shields.io/badge/GSSoC%202026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white" />
 
 **GirlScript Summer of Code 2026** · May 15 – Aug 14, 2026
-Contributing to **DevPath** — merged a skill-graph loading optimization ([PR #1245](https://github.com)).
+Contributing to **DevPath** — merged a skill-graph loading optimization ([PR #1245]([https://github.com](https://github.com/komalharshita/DevPath/pull/1245))).
 
 <br>
 
