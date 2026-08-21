@@ -152,8 +152,7 @@ Contributing to **DevPath** — merged a skill-graph loading optimization ([PR #
 <img src="https://github-readme-stats-two-rho.vercel.app/api?username=DevChinmaysamal17&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-stats-two-rho.vercel.app/api/top-langs/?username=DevChinmaysamal17&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
-<img src="https://streak-stats.demolab.com/?user=DevChinmaysamal17&theme=tokyonight&hide_border=true" width="60%" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=DevChinmaysamal17&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <br>
