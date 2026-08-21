@@ -42,12 +42,12 @@ goal: Backend / Cloud / DevOps Engineer
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
+**Languages**  
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,bash,c,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,js,bash&theme=dark" />
-
-**Backend & APIs**
-
+**Backend & APIs**  
+<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
@@ -56,25 +56,29 @@ goal: Backend / Cloud / DevOps Engineer
 </td>
 <td valign="top" width="50%">
 
-**Databases**
-
+**Databases**  
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-**DevOps, Cloud & Linux**
-
+**DevOps & Linux**  
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Deployment**  
+<br>
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
 </table>
-
 <br>
 
 ## 🚀 Featured Projects
