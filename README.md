@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer+in+the+making+%F0%9F%9A%80;FastAPI+%7C+Docker+%7C+PostgreSQL;Going+deep+on+Linux+%2B+DevOps+%2B+Cloud+%E2%98%81%EF%B8%8F;GSSoC+2026+Contributor+%F0%9F%8C%9F;Building+scalable+systems%2C+one+API+at+a+time)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=DevChinmaysamal17&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 <br>
